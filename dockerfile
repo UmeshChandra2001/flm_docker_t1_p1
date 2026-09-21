@@ -1,4 +1,4 @@
-FROM nignx
+FROM nginx
 MAINTAINER UMESH
 LABEL Payment Platform
 EXPOSE 80
